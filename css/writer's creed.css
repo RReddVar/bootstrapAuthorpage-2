@@ -1,0 +1,37 @@
+body{
+	background: url(https://cdn.pixabay.com/photo/2017/01/07/16/55/book-1960914_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Playfair Display', serif;
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px #604f22,
+	             0px 8px 7px #423d32,
+	             0px 12px 10px #968455;
+}
+
+html{
+	height: 100%;
+	max-width:  1920px;
+}
+
+h1, h3{
+	color: #f7edd9;
+}
+h3{
+	font-family: 'Sansita', sans-serif;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #a89e8a;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
